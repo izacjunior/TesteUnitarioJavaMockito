@@ -14,6 +14,6 @@ public class Calculadora {
 		
 		return resultado = a/b; 
 		
-	}
+		}
 	
 }

@@ -29,7 +29,7 @@ class CalculadoraTeste {
 	}
 
 	@Test
-	void testCalcularArea() {
+	public void testCalcularArea() {
 		Retangulo1 retangulo = new Retangulo1();
 		
 		int a = 10;
